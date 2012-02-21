@@ -1,0 +1,6 @@
+D:\IISLogReader\IISLogReader\IISLogReader\bin\Debug\IISLogReader.exe
+D:\IISLogReader\IISLogReader\IISLogReader\bin\Debug\IISLogReader.pdb
+D:\IISLogReader\IISLogReader\IISLogReader\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\IISLogReader\IISLogReader\IISLogReader\obj\x86\Debug\IISLogReader.exe
+D:\IISLogReader\IISLogReader\IISLogReader\obj\x86\Debug\IISLogReader.pdb
+D:\IISLogReader\IISLogReader\IISLogReader\bin\Debug\Input\test.log

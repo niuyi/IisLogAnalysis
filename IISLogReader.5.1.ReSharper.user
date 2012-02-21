@@ -1,0 +1,196 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="6DDF1FC3-D984-4319-8228-C7854F3EC653/f:Program.cs" caret="1975" fromTop="23" />
+      <File id="6DDF1FC3-D984-4319-8228-C7854F3EC653/f:IISLogLIne.cs" caret="435" fromTop="0" />
+      <File id="6DDF1FC3-D984-4319-8228-C7854F3EC653/f:UserInfoLogLine.cs" caret="83" fromTop="0" />
+      <File id="FADCBD61-7810-4891-A52D-CB4EC45933FF/f:UserInfoLogCollector.cs" caret="172" fromTop="6" />
+      <File id="FADCBD61-7810-4891-A52D-CB4EC45933FF/f:YesNoCollector.cs" caret="715" fromTop="25" />
+      <File id="FADCBD61-7810-4891-A52D-CB4EC45933FF/f:Program.cs" caret="510" fromTop="6" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="6DDF1FC3-D984-4319-8228-C7854F3EC653/f:Program.cs" caret="1933" fromTop="10" />
+      <File id="6DDF1FC3-D984-4319-8228-C7854F3EC653/f:Program.cs" caret="88" fromTop="3" />
+      <File id="6DDF1FC3-D984-4319-8228-C7854F3EC653/f:Program.cs" caret="1933" fromTop="16" />
+      <File id="6DDF1FC3-D984-4319-8228-C7854F3EC653/f:Program.cs" caret="2901" fromTop="25" />
+      <File id="6DDF1FC3-D984-4319-8228-C7854F3EC653/f:IISLogLIne.cs" caret="788" fromTop="10" />
+      <File id="6DDF1FC3-D984-4319-8228-C7854F3EC653/f:IISLogLIne.cs" caret="779" fromTop="5" />
+      <File id="6DDF1FC3-D984-4319-8228-C7854F3EC653/f:IISLogLIne.cs" caret="52" fromTop="1" />
+      <File id="6DDF1FC3-D984-4319-8228-C7854F3EC653/f:IISLogLIne.cs" caret="727" fromTop="22" />
+      <File id="6DDF1FC3-D984-4319-8228-C7854F3EC653/f:IISLogLIne.cs" caret="277" fromTop="9" />
+      <File id="6DDF1FC3-D984-4319-8228-C7854F3EC653/f:IISLogLIne.cs" caret="1073" fromTop="27" />
+      <File id="6DDF1FC3-D984-4319-8228-C7854F3EC653/f:IISLogLIne.cs" caret="653" fromTop="14" />
+      <File id="6DDF1FC3-D984-4319-8228-C7854F3EC653/f:Program.cs" caret="2669" fromTop="10" />
+      <File id="6DDF1FC3-D984-4319-8228-C7854F3EC653/f:UserInfoLogLine.cs" caret="533" fromTop="9" />
+      <File id="6DDF1FC3-D984-4319-8228-C7854F3EC653/f:IISLogLIne.cs" caret="779" fromTop="14" />
+      <File id="6DDF1FC3-D984-4319-8228-C7854F3EC653/f:UserInfoLogLine.cs" caret="558" fromTop="14" />
+      <File id="6DDF1FC3-D984-4319-8228-C7854F3EC653/f:Program.cs" caret="2669" fromTop="11" />
+      <File id="6DDF1FC3-D984-4319-8228-C7854F3EC653/f:Program.cs" caret="2355" fromTop="17" />
+      <File id="FADCBD61-7810-4891-A52D-CB4EC45933FF/f:Program.cs" caret="691" fromTop="17" />
+      <File id="FADCBD61-7810-4891-A52D-CB4EC45933FF/f:Program.cs" caret="1407" fromTop="23" />
+      <File id="FADCBD61-7810-4891-A52D-CB4EC45933FF/f:Program.cs" caret="968" fromTop="14" />
+      <File id="6DDF1FC3-D984-4319-8228-C7854F3EC653/f:UserInfoLogLine.cs" caret="1424" fromTop="16" />
+      <File id="6DDF1FC3-D984-4319-8228-C7854F3EC653/f:UserInfoLogLine.cs" caret="964" fromTop="16" />
+      <File id="6DDF1FC3-D984-4319-8228-C7854F3EC653/f:UserInfoLogLine.cs" caret="83" fromTop="4" />
+      <File id="FADCBD61-7810-4891-A52D-CB4EC45933FF/f:UserInfoLogCollector.cs" caret="172" fromTop="6" />
+      <File id="FADCBD61-7810-4891-A52D-CB4EC45933FF/f:Program.cs" caret="1187" fromTop="14" />
+      <File id="FADCBD61-7810-4891-A52D-CB4EC45933FF/f:Program.cs" caret="726" fromTop="8" />
+      <File id="FADCBD61-7810-4891-A52D-CB4EC45933FF/f:Program.cs" caret="610" fromTop="8" />
+      <File id="FADCBD61-7810-4891-A52D-CB4EC45933FF/f:YesNoCollector.cs" caret="228" fromTop="8" />
+      <File id="FADCBD61-7810-4891-A52D-CB4EC45933FF/f:YesNoCollector.cs" caret="570" fromTop="20" />
+      <File id="FADCBD61-7810-4891-A52D-CB4EC45933FF/f:YesNoCollector.cs" caret="715" fromTop="19" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="FileStyleUriParser`0" priority="0" />
+      <Item value="file" priority="6" />
+      <Item value="string" priority="7" />
+      <Item value="null" priority="0" />
+      <Item value="while" priority="0" />
+      <Item value="System" priority="0" />
+      <Item value="Console`0" priority="11" />
+      <Item value="line" priority="6" />
+      <Item value="lines" priority="0" />
+      <Item value="Count`1" priority="3" />
+      <Item value="if" priority="9" />
+      <Item value="words" priority="15" />
+      <Item value="continue" priority="1" />
+      <Item value="new" priority="10" />
+      <Item value="List" priority="1" />
+      <Item value="var" priority="1" />
+      <Item value="Dictionary" priority="0" />
+      <Item value="IEnumerable" priority="0" />
+      <Item value="dic" priority="3" />
+      <Item value="IList" priority="0" />
+      <Item value="int" priority="1" />
+      <Item value="index" priority="0" />
+      <Item value="File`0" priority="4" />
+      <Item value="foreach" priority="3" />
+      <Item value="userInfo" priority="4" />
+      <Item value="fileName" priority="3" />
+      <Item value="FileInfo`0" priority="1" />
+      <Item value="fileInfo" priority="1" />
+      <Item value="text" priority="3" />
+      <Item value="StreamWriter`0" priority="0" />
+      <Item value="else" priority="0" />
+      <Item value="Directory`0" priority="0" />
+      <Item value="files" priority="1" />
+      <Item value="AllDirectories" priority="0" />
+      <Item value="private" priority="2" />
+      <Item value="public" priority="1" />
+      <Item value="static" priority="0" />
+      <Item value="IISLogLine`0" priority="0" />
+      <Item value="Length" priority="0" />
+      <Item value="IisLogLine`0" priority="2" />
+      <Item value="iisLogLine" priority="4" />
+      <Item value="return" priority="4" />
+      <Item value="newLine" priority="5" />
+      <Item value="Ip" priority="0" />
+      <Item value="Date" priority="2" />
+      <Item value="Time" priority="1" />
+      <Item value="Method" priority="1" />
+      <Item value="Url" priority="1" />
+      <Item value="Query" priority="1" />
+      <Item value="UserInfoLogLine`0" priority="2" />
+      <Item value="filePath" priority="1" />
+      <Item value="UserInfoLogReader" priority="0" />
+      <Item value="UserInfoLogLine" priority="0" />
+      <Item value="void" priority="1" />
+      <Item value="IUserInfoLogCollector`0" priority="1" />
+      <Item value="YesNoCollector`0" priority="0" />
+      <Item value="collector" priority="2" />
+      <Item value="newline" priority="0" />
+      <Item value="yesCount" priority="1" />
+      <Item value="noCount" priority="1" />
+      <Item value="count" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.File">
+      <Item value="OpenRead`0" priority="0" />
+      <Item value="Exists`0" priority="0" />
+      <Item value="CreateText`0" priority="0" />
+      <Item value="AppendText`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamReader">
+      <Item value="ReadLine`0" priority="0" />
+      <Item value="Close`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="8" />
+      <Item value="Read`0" priority="1" />
+      <Item value="ReadKey`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Split`0" priority="1" />
+      <Item value="Substring`0" priority="0" />
+      <Item value="Contains`0" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="ContainsKey`0" priority="0" />
+      <Item value="Count" priority="1" />
+      <Item value="ElementAt`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList`1">
+      <Item value="Add`0" priority="0" />
+      <Item value="Count" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.KeyValuePair`2">
+      <Item value="Value" priority="2" />
+      <Item value="Key" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.FileInfo">
+      <Item value="CreateText`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamWriter">
+      <Item value="WriteLine`0" priority="0" />
+      <Item value="Close`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.Directory">
+      <Item value="GetFiles`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:IISLogReader.IisLogLine">
+      <Item value="Date" priority="2" />
+      <Item value="Time" priority="1" />
+      <Item value="Method" priority="2" />
+      <Item value="Url" priority="3" />
+      <Item value="Query" priority="1" />
+      <Item value="Ip" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@IISLogReader.IisLogLine">
+      <Item value="GetIisLogLine`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@IISLogReader.UserInfoLogLine">
+      <Item value="CreateFromIisLogLine`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:IISLogReader.UserInfoLogLine">
+      <Item value="ToString`0" priority="0" />
+      <Item value="Url" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UserInfoLogReader.IUserInfoLogCollector">
+      <Item value="Handle`0" priority="0" />
+      <Item value="Result`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

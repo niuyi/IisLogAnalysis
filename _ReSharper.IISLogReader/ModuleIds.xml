@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="6DDF1FC3-D984-4319-8228-C7854F3EC653" ModuleId="IISLogReader" />
+  <Module PersistentId="FADCBD61-7810-4891-A52D-CB4EC45933FF" ModuleId="UserInfoLogReader" />
+</Modules>
