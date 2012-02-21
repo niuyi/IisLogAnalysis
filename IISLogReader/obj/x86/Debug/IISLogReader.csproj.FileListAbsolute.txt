@@ -4,3 +4,8 @@ D:\IISLogReader\IISLogReader\IISLogReader\obj\x86\Debug\ResolveAssemblyReference
 D:\IISLogReader\IISLogReader\IISLogReader\obj\x86\Debug\IISLogReader.exe
 D:\IISLogReader\IISLogReader\IISLogReader\obj\x86\Debug\IISLogReader.pdb
 D:\IISLogReader\IISLogReader\IISLogReader\bin\Debug\Input\test.log
+C:\Users\linniu\IisLogAnalysis\IISLogReader\obj\x86\Debug\IISLogReader.exe
+C:\Users\linniu\IisLogAnalysis\IISLogReader\obj\x86\Debug\IISLogReader.pdb
+C:\Users\linniu\IisLogAnalysis\IISLogReader\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\linniu\IisLogAnalysis\IISLogReader\bin\Debug\IISLogReader.exe
+C:\Users\linniu\IisLogAnalysis\IISLogReader\bin\Debug\IISLogReader.pdb

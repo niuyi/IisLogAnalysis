@@ -6,3 +6,10 @@ D:\IISLogReader\IISLogReader\UserInfoLogReader\obj\x86\Debug\UserInfoLogReader.p
 D:\IISLogReader\IISLogReader\UserInfoLogReader\bin\Debug\Input\test.log
 D:\IISLogReader\IISLogReader\UserInfoLogReader\bin\Debug\IISLogReader.exe
 D:\IISLogReader\IISLogReader\UserInfoLogReader\bin\Debug\IISLogReader.pdb
+C:\Users\linniu\IisLogAnalysis\UserInfoLogReader\bin\Debug\IISLogReader.exe
+C:\Users\linniu\IisLogAnalysis\UserInfoLogReader\bin\Debug\IISLogReader.pdb
+C:\Users\linniu\IisLogAnalysis\UserInfoLogReader\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\linniu\IisLogAnalysis\UserInfoLogReader\obj\x86\Debug\UserInfoLogReader.exe
+C:\Users\linniu\IisLogAnalysis\UserInfoLogReader\obj\x86\Debug\UserInfoLogReader.pdb
+C:\Users\linniu\IisLogAnalysis\UserInfoLogReader\bin\Debug\UserInfoLogReader.exe
+C:\Users\linniu\IisLogAnalysis\UserInfoLogReader\bin\Debug\UserInfoLogReader.pdb
